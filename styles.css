@@ -29,3 +29,8 @@ h2{
 #hipotesis{
     background-color: #F6B944;
 }
+
+#descripcion{
+    margin-inline: 10vw;
+    margin-block: 2rem; 
+}
