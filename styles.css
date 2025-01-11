@@ -1,6 +1,11 @@
+:root{
+    --color-fondo: #f1d7a8;
+    --color-texto: #282520
+}
+
 html{
-    background-color: #f1d7a8;
-    color: black;
+    background-color: var(--color-fondo);
+    color: var(--color-texto);
 }
 
 body{
